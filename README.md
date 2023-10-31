@@ -8,6 +8,18 @@ RetailDB is a relational database designed to handle the inventory, sales, and c
 - **Product Inventory**: Keep track of product details, including stock quantity.
 - **Sales Records**: Record sales transactions, automatically updating inventory.
 
+## Structure
+RetailDB/
+│
+├── sql/
+│   ├── create_tables.sql
+│   ├── stored_procedures.sql
+│   └── triggers.sql
+│
+├── README.md
+│
+└── .gitignore
+
 ## How to Use
 
 1. Clone this repository to your local machine.
